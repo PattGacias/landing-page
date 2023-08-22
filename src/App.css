@@ -1,0 +1,337 @@
+.container{
+    background-color: #ffffff;
+}
+.logo {
+  width: 168px;
+  height: 31px;
+  position: relative;
+  overflow: hidden;
+}
+.vector {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.vector2 {
+  position: absolute;
+  left: 70.33px;
+  top: 6.73px;
+  overflow: visible;
+}
+.vector3 {
+  position: absolute;
+  left: 97.1px;
+  top: 7.15px;
+  overflow: visible;
+}
+.vector4 {
+  position: absolute;
+  left: 114.91px;
+  top: 6.63px;
+  overflow: visible;
+}
+.group {
+  position: absolute;
+  left: 133.78px;
+  top: 16.78px;
+  overflow: visible;
+}
+.rectangle-67 {
+  background: linear-gradient(
+    105.5deg,
+    rgba(59, 125, 219, 1) 0%,
+    rgba(45, 106, 193, 1) 100%
+  );
+  border-radius: 56.49px;
+  width: 194px;
+  height: 47.72px;
+  position: relative;
+}
+
+.check-eligibility {
+  color: #ffffff;
+  text-align: center;
+  font: 500 16px "Poppins", sans-serif;
+  position: relative;
+  width: 154.1px;
+  height: 30.51px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 25px;
+  top: 7px;
+}
+.background{
+    background-color: #6e8cb9;
+    height: 800px;
+    width: 100%;
+    position: absolute;
+}
+.title {
+    color: #ffffff;
+    text-align: center;
+    font: 650 42px "Poppins", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 120px;
+  }
+
+  .title-p {
+    color: #ffffff;
+    text-align: center;
+    font: 200 10px,"poppins " sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+  }
+  .rectangle-36 {
+    background: #f5f5f5;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    width: 746px;
+    height: 409px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 600px;
+  }
+  .impact{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    background: #f5f5f5;
+    border-width: 2px;
+    border-style: solid;
+    width: 317px; 
+    height: 36px; 
+    text-align: center;
+    transform: translateY(-20px);
+  }
+  .impact-span{
+    color: black; 
+    font-size: 12px; 
+    font-family: "Poppins"; 
+    font-weight: 600; 
+    word-wrap: break-word
+  }
+  .line {
+    background: #d9d9d9;
+    width: 250px;
+    height: 1px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7%;
+  }
+  .ellipse-120 {
+    background: #ffffff;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #94d82d;
+    border-width: 2px;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+    top: -12px;
+  }
+  ._1 {
+    color: #94d82d;
+    text-align: center;
+    font: 400 14px "Poppins", sans-serif;
+    position: relative;
+    width: 11px;
+    height: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    top: 5px;
+  }
+  .ellipse-121 {
+    background: #ffffff;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 2px;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: -12px;
+    left: 55px;
+  }
+  ._2 {
+    color: #cccccc;
+    text-align: center;
+    font: 400 14px "Poppins", sans-serif;
+    position: relative;
+    width: 11px;
+    height: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    top: 5px;
+  }
+  .ellipse-122 {
+    background: #ffffff;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 2px;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: -12px;
+    left: 113px;
+  }
+  ._3 {
+    color: #cccccc;
+    text-align: center;
+    font: 400 14px "Poppins", sans-serif;
+    position: relative;
+    width: 11px;
+    height: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    top: 5px;
+  }
+  .ellipse-123 {
+    background: #ffffff;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 2px;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: -12px;
+    left: 170px;
+  }
+  ._4 {
+    color: #cccccc;
+    text-align: center;
+    font: 400 14px "Poppins", sans-serif;
+    position: relative;
+    width: 11px;
+    height: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    top: 5px;
+  }
+  .ellipse-124 {
+    background: #ffffff;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 2px;
+    width: 27px;
+    height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: -12px;
+    left: 223px;
+  }
+  ._5 {
+    color: #cccccc;
+    text-align: center;
+    font: 400 14px "Poppins", sans-serif;
+    position: relative;
+    width: 11px;
+    height: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    top: 5px;
+  }
+  .quiz-title {
+    color: #000000;
+    text-align: center;
+    font: 600 22px "Poppins", sans-serif;
+    position: relative;
+    width: 475px;
+    height: 59px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 10%;
+  }
+  .car {
+    color: #ffffff;
+    text-align: center;
+    font: 400 16px "Poppins", sans-serif;
+    position: relative;
+    width: 217.63px;
+    height: 61.68px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .div-car{
+    display: flex;
+    float: left;
+    width: 50%;
+    padding-top: 10px;
+  }
+  .div-suv{
+    display: flex;
+    float: right;
+    width: 50%;
+    padding-top: 10px;
+  }
+  .div-truck{
+    display: flex;
+    float: right;
+    width: 50%;
+    padding-top: 10px;
+  }
+  .div-other{
+    display: flex;
+    float: right;
+    width: 50%;
+    padding-top: 10px;
+  }
+  .background-section {
+    background: #f1f1f1;
+    width: 100%;
+    height: 1174px;
+    padding-top: 5%;
+  }
+  .heading{
+    text-align: center;
+  }
+ 
+  
